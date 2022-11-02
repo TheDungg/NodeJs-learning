@@ -122,3 +122,4 @@ app.delete("/student",function(req,res){
     //delete sinh vien
     res.send("Student with DELETE");
 });
+
